@@ -1,0 +1,25 @@
+{
+  "name": "employee_management_system",
+  "version": "1.0.0",
+  "description": "aka employee directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcastrodesign/employee_management_system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidcastrodesign/employee_management_system/issues"
+  },
+  "homepage": "https://github.com/davidcastrodesign/employee_management_system#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.2",
+    "mysql": "^2.18.1"
+  }
+}
